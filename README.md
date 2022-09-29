@@ -21,6 +21,9 @@ Pour commencer il faut récupérer les fichiers, soit via git clone, soit un sim
     Script 3 : starwars.ps1
       Executer le script à l'aide d'un compilateur powershell. Une fois éxecuté le script affichera le message "star wars theme" en ascii art et jouera le thème de 
       star wars, (n'oubliez pas d'activer le son de votre appareil).
+      
+    Script 4 : music_machine.ps1
+      Executer le script à l'aide d'un compilateur powershell. Une fois éxecuté le script demande a l'utilisateur la musique qu'il veut écouter, des que le son est             choisi il le joue et affiche un petit ascii art 
 
 Basic Workflow
 
