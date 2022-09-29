@@ -15,7 +15,7 @@ def nb_premier(x, y):
  
 # main
 x = 1
-y = 100000
+y = 1000000
 lst = nb_premier(x, y)
 if len(lst) == 0:
     print("Il n'y a pas de nombres premier dans cet intervalle")
