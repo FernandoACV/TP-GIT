@@ -13,6 +13,7 @@ Pour commencer il faut récupérer les fichiers, soit via git clone, soit un sim
 
     Script 1 : nb_premier.py
       Executer le script à l'aide d'un compilateur python. La liste des nombres premier entre 1 et 1 000 000 s'affichera dans la console.
+      Le bonus (dernier commit) permet à l'utilisateur de choisir lui même l'intervalle d'affichage de la liste des nombres premiers.
       
     Script 2 : clone repo.ps1
       Executer le script à l'aide d'un compilateur powershell. Le script va  commencer par demander un nom de dossier qu'il va ensuite créer dans le répertoire de 
